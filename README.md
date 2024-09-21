@@ -35,9 +35,8 @@
 
 Check out the live demo of **VoiceChrono** deployed on GitHub Pages:
 
-[![VoiceChrono Demo](https://img.shields.io/badge/Demo-View%20Site-blue)](https://yourusername.github.io/VoiceChrono/)
+[![VoiceChrono Demo](https://img.shields.io/badge/Demo-View%20Site-blue)]https://medraedboukari.github.io/VoiceChrono/
 
-*Replace `https://yourusername.github.io/VoiceChrono/` with your actual GitHub Pages URL once deployed.*
 
 ## Technologies Used
 
@@ -54,7 +53,7 @@ Check out the live demo of **VoiceChrono** deployed on GitHub Pages:
 
 1. **Access the Application**
 
-   Visit the live demo at [https://yourusername.github.io/VoiceChrono/](https://yourusername.github.io/VoiceChrono/).
+   Visit the live demo at https://medraedboukari.github.io/VoiceChrono/.
 
 2. **Grant Microphone Access**
 
