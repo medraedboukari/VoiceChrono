@@ -10,9 +10,6 @@
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Real-Time Analytics](#real-time-analytics)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
@@ -91,13 +88,4 @@ VoiceChrono provides insightful analytics to help you monitor your speaking patt
 
 These metrics update in real-time as you speak, allowing you to gauge your productivity and speaking efficiency.
 
-## Contributing
 
-Contributions are welcome! If you'd like to enhance VoiceChrono, follow these steps:
-
-1. **Fork the Repository**
-
-2. **Create a New Branch**
-
-   ```bash
-   git checkout -b feature/YourFeatureName
