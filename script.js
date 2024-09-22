@@ -1,3 +1,5 @@
+// script.js
+
 // Import jsPDF from the global namespace
 const { jsPDF } = window.jspdf;
 
